@@ -1,0 +1,11 @@
+cd <directory> - Change directory (Within current directory)
+cd. - Change to previous directory
+pwd - Print working directory 
+exit - Terminate Shell
+help - Display help
+mkdir <directory> - Create a directory
+rmdir <directory> - Remove a directory
+ls <directory> - List files in a directory
+cp <source> <destination> - Copy a file to target file
+mv <source> <destination> - Move a file to target directory
+rm <file> - Remove a file (Within current directory)
